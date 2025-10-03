@@ -24,11 +24,15 @@ It includes modules like:
 - Contacts Dashboard  
 - Deals Pipeline  
 - Task Management Page  
-- Email Tracking Page  
+- Email Tracking Page
+- contact details
 
 
 ## 🔗 HubSpot CRM Link
-[Open HubSpot CRM Dashboard](https://app.hubspot.com/)
+https://app-na2.hubspot.com/contacts/243868075/objects/0-1/views/all/list  (contact link)
+https://app-na2.hubspot.com/contacts/243868075/objects/0-3/views/all/board  ( Deal link)
+https://app-na2.hubspot.com/tasks/243868075/view/all                        ( task link)
+
 
 ---
 
